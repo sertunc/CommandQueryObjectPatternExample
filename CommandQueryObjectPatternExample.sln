@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandQueryObjectPatternExample", "CommandQueryObjectPatternExample\CommandQueryObjectPatternExample.csproj", "{855355E7-5A1B-4655-A863-5CA743F0FBC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855355E7-5A1B-4655-A863-5CA743F0FBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855355E7-5A1B-4655-A863-5CA743F0FBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855355E7-5A1B-4655-A863-5CA743F0FBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855355E7-5A1B-4655-A863-5CA743F0FBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77DFAB0-512E-4924-B1B9-E13913EDC40B}
+	EndGlobalSection
+EndGlobal
