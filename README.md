@@ -1,0 +1,2 @@
+# CommandQueryObjectPatternExample
+CommandQueryObjectPatternExample başlangıç seviyesinde örnek
